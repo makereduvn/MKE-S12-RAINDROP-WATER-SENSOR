@@ -10,9 +10,7 @@ Sản phẩm phù hợp cho nhiều ứng dụng như: **phát hiện và giám 
 
 ## Nguyên lý hoạt động
 
-**MKE-S12 Raindrop Water Sensor** hoạt động dựa trên **nguyên lý cảm ứng điện dung** để phát hiện và xác định lượng nước trên bề mặt **đầu dò (probe)**. Khi nước xuất hiện trên đầu dò, **điện dung của đầu dò thay đổi theo lượng nước đọng trên bề mặt**. 
-
-Mạch chuyển đổi tín hiệu trên cảm biến sẽ xử lý sự thay đổi điện dung này và chuyển đổi thành **tín hiệu điện áp Analog** tại ngõ ra "S". 
+**MKE-S12 Raindrop Water Sensor** hoạt động dựa trên **nguyên lý cảm ứng điện dung** để phát hiện và xác định lượng nước trên bề mặt **đầu dò (probe)**. Khi nước xuất hiện trên đầu dò, **điện dung của đầu dò thay đổi theo lượng nước đọng trên bề mặt**. Mạch chuyển đổi tín hiệu trên cảm biến sẽ xử lý sự thay đổi điện dung này và chuyển đổi thành **tín hiệu điện áp Analog** tại ngõ ra `S`. 
 
 Tín hiệu tại chân `S` có điện áp trong khoảng:
 
@@ -90,7 +88,7 @@ Tín hiệu Analog sau đó có thể được đưa vào ngõ **ADC (Analog to 
 
 ### Hướng dẫn lập trình với Micro:bit (kéo thả khối)
 
-- Khởi động [Microsoft MakeCode](https://makecode.microbit.org/) và **Import** chương trình theo đường link sau: `https://github.com/makereduvn/mke_s23_raindrop_microbit/`
+- Khởi động [Microsoft MakeCode](https://makecode.microbit.org/) và **Import** chương trình theo đường link sau: `https://github.com/makereduvn/mke_s12_raindrop_microbit/`
 - Kết nối mạch Micro:bit và **Download** chương trình.
 - Cấp nguồn 5VDC cho mạch, kết nối chân S (SIGNAL) của sensor với chân điều khiển được khai báo trong chương trình.
 - Xem kết quả mạch hoạt động theo chương trình đã nạp.
