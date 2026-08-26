@@ -96,11 +96,20 @@ Tín hiệu Analog sau đó có thể được đưa vào ngõ **ADC (Analog to 
 Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT** trên [Microsoft MakeCode](https://makecode.microbit.org/) theo [hướng dẫn tại đây](https://github.com/makereduvn/MKE_ONE_MICROBIT). Sau khi cài đặt thành công, các khối lệnh của Extension **MKE_ONE_MICROBIT** sẽ xuất hiện trong danh sách block và sẵn sàng để sử dụng.
 
 ## Kích thước sản phẩm
+### Probe
 ![MKE-S12 RAINDROP](/extras/MKE-S12_1.jpg)
 
+### Mạch xử lý tín hiệu
+![MKE-S12 RAINDROP](/extras/MKE-S12_2.jpg)
+
 ## Hình ảnh sản phẩm
-![MKE-S12 RAINDROP](/extras/MKE-S12_2.png)
+
+### Probe
 ![MKE-S12 RAINDROP](/extras/MKE-S12_3.png)
+
+### Mạch xử lý tín hiệu
+![MKE-S12 RAINDROP](/extras/MKE-S12_4.png)
+![MKE-S12 RAINDROP](/extras/MKE-S12_5.png)
 
 ## Miễn trừ trách nhiệm
 Sản phẩm này là bo mạch phát triển được thiết kế phục vụ cho mục đích nghiên cứu, thử nghiệm và học tập, không phải là một thiết bị hoàn chỉnh. Trong trường hợp người dùng kết hợp mạch này với các linh kiện, thiết bị hoặc phần mềm khác để tạo thành một hệ thống hoặc sản phẩm hoàn chỉnh, mọi chức năng và tính phù hợp của sản phẩm sau cùng đều thuộc trách nhiệm của người dùng.
